@@ -30,14 +30,14 @@ import (
 func main() {
 
 	// Call function to get picture from URL
-	Getpic.DownloadPicture()
+	Getpic.Getpicture()
 
 	// Call function to process Pixel Colors
-	Colors.PrintPixels()
+	Colors.Colors()
 
 	// Call function to grayscale image
-	Grayscale.GrayScale()
+	Grayscale.Grayscale()
 
 	// Call function to print colored text to image
-	Text.PrintText()
+	Text.Text()
 }

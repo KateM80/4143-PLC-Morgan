@@ -1,3 +1,9 @@
+github.com/KateM80/img_mod/Colors v0.0.0-20231007021247-50de82f4a200 h1:ZXPP8GnZTAypfpPF8YSC135Q9BmVv6ma8WGj4w+1sWk=
+github.com/KateM80/img_mod/Colors v0.0.0-20231007021247-50de82f4a200/go.mod h1:sMGwiAPVOxMaILq5wuwjl3LnCRT3f5IJszs0ioYZcWs=
+github.com/KateM80/img_mod/Getpic v0.0.0-20231007021247-50de82f4a200 h1:5z8oaDmKktuK6o3PVm1n3EYys4x/060p++wXJsCuSJ8=
+github.com/KateM80/img_mod/Getpic v0.0.0-20231007021247-50de82f4a200/go.mod h1:vYyxaZ65qZwTvQGY1vQuU1xGvmofw3XaUqt+IOY2fqU=
+github.com/KateM80/img_mod/Grayscale v0.0.0-20231007021247-50de82f4a200 h1:g51+ORflKBYBllVUIogtb+rQx0P2ummX3EmPX5RvgC8=
+github.com/KateM80/img_mod/Grayscale v0.0.0-20231007021247-50de82f4a200/go.mod h1:Mx8gAMpUx4BJfgiCsRO8PCGk1PIcd1lKWcaSrCToIMI=
 github.com/KateM80/img_mod/Text v0.0.0-20231007021247-50de82f4a200 h1:+2JOBHfNxcA8BkYHZqY4AqgkW38S5OqGeQw7l9OqL9M=
 github.com/KateM80/img_mod/Text v0.0.0-20231007021247-50de82f4a200/go.mod h1:fCuRAnFHDdw0xF6HPs2+J5L6sgCU5+mw0mxRR+uzRUY=
 github.com/fogleman/gg v1.3.0 h1:/7zJX8F6AaYQc57WQCyN9cAIz+4bCJGO9B+dyW29am8=
