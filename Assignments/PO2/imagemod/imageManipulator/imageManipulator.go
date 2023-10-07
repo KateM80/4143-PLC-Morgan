@@ -1,6 +1,6 @@
 // imagemod/imageManipulator/imageManipulator.go
 
-package imageManipulator
+package ImageManipulator
 
 import (
 	"/github.com/KateM80/2143-OOP-morgan/blob/main/NewPF.jpg"

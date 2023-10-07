@@ -1,0 +1,7 @@
+go 1.21.1
+
+use (
+	./Assignments/PO1
+	./Assignments/PO2/imagemod
+	./Assignments/PO3
+)

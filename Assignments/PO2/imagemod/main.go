@@ -2,13 +2,9 @@
 
 package main
 
-import (
-	"/imagemod/imageManipulator"
-)
-
 func main() {
 	// Create an ImageManipulator instance
-	im := imageManipulator.NewImageManipulator(800, 600)
+	im := ImageManipulator.NewImageManipulator(800, 600)
 
 	// Draw a rectangle
 	im.DrawRectangle(150, 50, 560, 411)
